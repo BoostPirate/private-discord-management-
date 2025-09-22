@@ -3,6 +3,7 @@ node_modules/
 
 # Environment files (tokens, secrets)
 .env
+*.env
 customers/**/.env
 
 # Logs
